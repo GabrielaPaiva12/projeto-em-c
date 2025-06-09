@@ -6,9 +6,9 @@ typedef struct {
     char autor[50];
 } Livro;
 
-#define MAX_LIVROS 50  // Número máximo de livros
-Livro biblioteca[MAX_LIVROS]; // Vetor de livros
-int total_livros = 0;   // Contador de livros cadastrados
+#define MAX_LIVROS 50  
+Livro biblioteca[MAX_LIVROS]; 
+int total_livros = 0;  
 
 
 void adicionar_livro() {
@@ -20,7 +20,7 @@ void adicionar_livro() {
     Livro novo_livro;
 
     printf("Título: ");
-    scanf(" %[^\n]", novo_livro.titulo); // Lê até a quebra de linha
+    scanf(" %[^\n]", novo_livro.titulo); 
 
     printf("Autor: ");
     scanf(" %[^\n]", novo_livro.autor);
