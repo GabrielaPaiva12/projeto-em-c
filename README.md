@@ -3,6 +3,7 @@
 ## Como executar o projeto
 1 - Clone o projeto 2 - Execute no terminal:
 
+biblioteca.exe
 
 (![image (4)](https://github.com/user-attachments/assets/71713ad8-bb7a-4db2-9687-bf3cc2b9f261)
 
