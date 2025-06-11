@@ -18,11 +18,15 @@ Os livros ficam listados dessa forma:
 
 ## Adicionar livro
 
+O sistema permite que o usuário adicione o título e autor do livro
+
 ![image (6)](https://github.com/user-attachments/assets/4580c4b4-f75b-4cc4-9897-3b2a3e228cda)
 
 
 
 ## Listar livros 
+O sistema permite que o usuário também veja a lista de livros adicionados
+
 
 ![image (7)](https://github.com/user-attachments/assets/9ea6af10-cbe5-46d6-93e1-ee45437ac6e2)
 
